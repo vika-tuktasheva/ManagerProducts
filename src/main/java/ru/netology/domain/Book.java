@@ -5,7 +5,6 @@ public class Book extends Product {
 
     //конструкторы
     public Book() {
-
     }
 
     public Book(int id, String name, int price, String author) {
